@@ -1,0 +1,3 @@
+[submodule "scripts/mpv-scripts"]
+	path = scripts/mpv-scripts
+	url = https://github.com/prime-optimal/mpv-configuration.git
