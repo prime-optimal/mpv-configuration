@@ -1,3 +1,7 @@
 [submodule "scripts/mpv-scripts"]
 	path = scripts/mpv-scripts
 	url = https://github.com/prime-optimal/mpv-configuration.git
+
+[submodule "scripts/mpv-cut"]
+	path = scripts/mpv-cut
+	url = https://github.com/familyfriendlymikey/mpv-cut
