@@ -1,0 +1,3 @@
+[submodule "mpv-cut"]
+	path = mpv-cut
+	url = https://github.com/familyfriendlymikey/mpv-cut
