@@ -1,0 +1,1 @@
+mpv --lavfi-complex="[vid1][vid2][vid3]hstack=inputs=3[vo];[aid1][aid2][aid3]amix=inputs=3[ao]" COPY_Match_2023-04-08-19-33-44_FROM_00-04-28-500_TO_00-10-08-232.mkv --external-files=COPY_Match_2023-04-08-19-48-47_FROM_00-01-14-533_TO_00-03-33-866.mkv;COPY_Match_2023-04-08-19-48-47_FROM_00-03-49-000_TO_00-07-17-049.mkv
